@@ -1,0 +1,32 @@
+.divA {
+    background-color: black;
+    color: white;
+    width: 250px;
+    height: 500px;
+}
+
+.divB {
+    background-color: #ff8c00;
+    width: 60%;
+    height: 45%;
+}
+
+.paragrafoC {
+    color: white;
+    background-color: #1e557fba;
+    font-size: 21px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.divD {
+    width: 70%;
+    height: 50vh;
+    background-color: orange;
+}
+
+.divE {
+    width: 70vw;
+    height: 55%;
+    background-color: lightcyan;
+}
